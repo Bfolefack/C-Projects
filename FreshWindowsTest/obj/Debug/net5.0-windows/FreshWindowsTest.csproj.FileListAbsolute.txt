@@ -1,0 +1,16 @@
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\bin\Debug\net5.0-windows\FreshWindowsTest.exe
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\bin\Debug\net5.0-windows\FreshWindowsTest.deps.json
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\bin\Debug\net5.0-windows\FreshWindowsTest.runtimeconfig.json
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\bin\Debug\net5.0-windows\FreshWindowsTest.runtimeconfig.dev.json
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\bin\Debug\net5.0-windows\FreshWindowsTest.dll
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\bin\Debug\net5.0-windows\ref\FreshWindowsTest.dll
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\bin\Debug\net5.0-windows\FreshWindowsTest.pdb
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\obj\Debug\net5.0-windows\FreshWindowsTest.csproj.AssemblyReference.cache
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\obj\Debug\net5.0-windows\FreshWindowsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\obj\Debug\net5.0-windows\FreshWindowsTest.AssemblyInfoInputs.cache
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\obj\Debug\net5.0-windows\FreshWindowsTest.AssemblyInfo.cs
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\obj\Debug\net5.0-windows\FreshWindowsTest.csproj.CoreCompileInputs.cache
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\obj\Debug\net5.0-windows\FreshWindowsTest.dll
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\obj\Debug\net5.0-windows\ref\FreshWindowsTest.dll
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\obj\Debug\net5.0-windows\FreshWindowsTest.pdb
+C:\Users\bouen\Desktop\Projects\Programming\C#Projects\FreshWindowsTest\obj\Debug\net5.0-windows\FreshWindowsTest.genruntimeconfig.cache
